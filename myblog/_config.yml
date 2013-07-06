@@ -1,7 +1,7 @@
 name: Your New Jekyll Site
 pygments: true
 source:      .
-destination: ./_posts
+destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
@@ -30,7 +30,7 @@ watch:       false    # deprecated
 server:      false    # deprecated
 host:        0.0.0.0
 port:        4000
-baseurl:     /
+baseurl:     /index.html
 url:         http://arinbasu.github.io/HLTH301/
 lsi:         false
 
