@@ -1,7 +1,7 @@
 name: Your New Jekyll Site
 pygments: true
 source:      .
-destination: ./_site
+destination: ./_posts
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
